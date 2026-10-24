@@ -1,0 +1,13 @@
+# File tạm của hệ điều hành và ứng dụng
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.temp
+*.bak
+
+# Bí mật và vùng làm việc riêng; vẫn cần kiểm tra thủ công trước khi commit
+.env
+.env.*
+!.env.example
+private/
