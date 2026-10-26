@@ -1,9 +1,12 @@
 # Mẫu quảng cáo xe
 
+- [LEAD – gói nội dung](lead/20261026-goi-noi-dung/thong-tin.md)
+- [Air Blade – gói nội dung](air-blade/20261026-goi-noi-dung/thong-tin.md)
+
 - [Wave Alpha](wave-alpha/20261026-mau-quang-cao/thong-tin.md)
 - [SH 125/160](sh-125-160/20261026-mau-quang-cao/thong-tin.md)
 
-Đây là hai công việc mẫu ở trạng thái `nhap`, chưa có ảnh xe hoặc thiết kế, chưa được duyệt để đăng. Khi tạo công việc thật, sao chép bộ mẫu sang thư mục `YYYYMMDD-chu-de/` trong dòng xe tương ứng; thay ngày trong tên file và cập nhật hồ sơ.
+Đây là các công việc mẫu ở trạng thái `nhap`, chưa có ảnh xe hoặc thiết kế, chưa được duyệt để đăng. Khi tạo công việc thật, sao chép bộ mẫu sang thư mục `YYYYMMDD-chu-de/` trong dòng xe tương ứng; thay ngày trong tên file và cập nhật hồ sơ.
 
 Mỗi công việc có `sources/` (nguồn), `working/` (nội dung và thiết kế nháp), `exports/` (chỉ bản đã duyệt) và `thong-tin.md`. File `.gitkeep` giữ chỗ cho thư mục rỗng.
 
