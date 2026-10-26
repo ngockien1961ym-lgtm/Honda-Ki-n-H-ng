@@ -15,9 +15,11 @@
 
 ## Bảng theo dõi
 
-Chưa có tài sản thực tế được nhập. Thêm một dòng cho mỗi tài sản; các bản sửa ghi trong hồ sơ của tài sản.
+Đã bổ sung gói nội dung Markdown LEAD và Air Blade ở trạng thái nháp; chưa có thiết kế hoặc bản xuất được duyệt. Thêm một dòng cho mỗi tài sản; các bản sửa ghi trong hồ sơ của tài sản.
 
 | Mã tài sản | Tên/chủ đề | Nhóm | Đường dẫn hồ sơ | Phiên bản hiện hành | Trạng thái | Ngày hiệu lực/hết hạn |
 | --- | --- | --- | --- | --- | --- | --- |
+| kh-20261026-quang-cao-xe-lead-001 | Gói nội dung LEAD | Quảng cáo xe | [Hồ sơ](../assets/03-quang-cao-xe/lead/20261026-goi-noi-dung/thong-tin.md) | v01 | nhap | Chưa xác nhận |
+| kh-20261026-quang-cao-xe-air-blade-001 | Gói nội dung Air Blade | Quảng cáo xe | [Hồ sơ](../assets/03-quang-cao-xe/air-blade/20261026-goi-noi-dung/thong-tin.md) | v01 | nhap | Chưa xác nhận |
 
 Mã gợi ý: `kh-YYYYMMDD-nhom-001`. Dùng liên kết tương đối tới `thong-tin.md`; không đánh dấu “đã duyệt” chỉ vì file đã được đưa lên GitHub.
