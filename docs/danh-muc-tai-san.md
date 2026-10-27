@@ -22,4 +22,6 @@
 | kh-20261026-quang-cao-xe-lead-001 | Gói nội dung LEAD | Quảng cáo xe | [Hồ sơ](../assets/03-quang-cao-xe/lead/20261026-goi-noi-dung/thong-tin.md) | v01 | nhap | Chưa xác nhận |
 | kh-20261026-quang-cao-xe-air-blade-001 | Gói nội dung Air Blade | Quảng cáo xe | [Hồ sơ](../assets/03-quang-cao-xe/air-blade/20261026-goi-noi-dung/thong-tin.md) | v01 | nhap | Chưa xác nhận |
 
+| kh-20261027-khuyen-mai-001 | Cùng lên ga quà bao la | Khuyến mãi | [Hồ sơ](../assets/04-khuyen-mai/20261027-cung-len-ga-qua-bao-la/thong-tin.md) | v01 | nhap | Kết thúc 31/10; năm, giờ và ngày bắt đầu chưa xác nhận |
+
 Mã gợi ý: `kh-YYYYMMDD-nhom-001`. Dùng liên kết tương đối tới `thong-tin.md`; không đánh dấu “đã duyệt” chỉ vì file đã được đưa lên GitHub.
